@@ -1,0 +1,24 @@
+﻿Project: Client: XYZ Non-Profit Organization
+
+
+Scope: The system will be a web-based application that allows users to register for events, view event details, and receive notifications about upcoming events. It will include user authentication, event management, and notification features.
+
+
+Purpose: The system will streamline the event registration process for XYZ Non-Profit Organization, making it easier for users to sign up for events and stay informed about event details. It will also help the organization manage event logistics more efficiently.
+
+
+
+
+For communication, we will be using discord, we also have our phone numbers as needed.
+
+
+TRELLO BOARD - https://xyznpo.atlassian.net/jira/core/projects/XNPO/board?groupBy=status 
+GITHUB - https://github.com/johnala05/Final-project-launch 
+
+
+Team members:
+Jonathan - Team Manager 
+Juan - Back-end developer
+Grayson - Front-end developer
+Harrison - Front-end developer
+Blake - Back end developer
